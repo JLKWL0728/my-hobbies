@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+ol li {
+  font-size: 19px;
+}
+
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:50%;
+  margin: 20px 0;
+}
+
+  
